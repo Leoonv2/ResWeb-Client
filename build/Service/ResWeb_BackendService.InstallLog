@@ -1,0 +1,299 @@
+﻿Uninstalling assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+Removing EventLog source ResWeb.
+Service ResWeb is being removed from the system...
+Service ResWeb was successfully removed from the system.
+Installing assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+   logtoconsole = 
+Installing service ResWeb...
+Service ResWeb has been successfully installed.
+Creating EventLog source ResWeb in log Application...
+Committing assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+Removing EventLog source ResWeb.
+Service ResWeb is being removed from the system...
+Service ResWeb was successfully removed from the system.
+Installing assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+   logtoconsole = 
+Installing service ResWeb...
+Service ResWeb has been successfully installed.
+Creating EventLog source ResWeb in log Application...
+Committing assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+Removing EventLog source ResWeb.
+Service ResWeb is being removed from the system...
+Service ResWeb was successfully removed from the system.
+Installing assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+   logtoconsole = 
+Installing service ResWeb...
+Service ResWeb has been successfully installed.
+Creating EventLog source ResWeb in log Application...
+Committing assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+Removing EventLog source ResWeb.
+Service ResWeb is being removed from the system...
+Service ResWeb was successfully removed from the system.
+Installing assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+   logtoconsole = 
+Installing service ResWeb...
+Service ResWeb has been successfully installed.
+Creating EventLog source ResWeb in log Application...
+Committing assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+Removing EventLog source ResWeb.
+Service ResWeb is being removed from the system...
+Service ResWeb was successfully removed from the system.
+Installing assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+   logtoconsole = 
+Installing service ResWeb...
+Service ResWeb has been successfully installed.
+Creating EventLog source ResWeb in log Application...
+Committing assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+Removing EventLog source ResWeb.
+Service ResWeb is being removed from the system...
+Service ResWeb was successfully removed from the system.
+Installing assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+   logtoconsole = 
+Installing service ResWeb...
+Service ResWeb has been successfully installed.
+Creating EventLog source ResWeb in log Application...
+Committing assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+Removing EventLog source ResWeb.
+Service ResWeb is being removed from the system...
+Service ResWeb was successfully removed from the system.
+Installing assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+   logtoconsole = 
+Installing service ResWeb...
+Service ResWeb has been successfully installed.
+Creating EventLog source ResWeb in log Application...
+Committing assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+Removing EventLog source ResWeb.
+Service ResWeb is being removed from the system...
+Service ResWeb was successfully removed from the system.
+Installing assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+   logtoconsole = 
+Installing service ResWeb...
+Service ResWeb has been successfully installed.
+Creating EventLog source ResWeb in log Application...
+Committing assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+Removing EventLog source ResWeb.
+Service ResWeb is being removed from the system...
+Service ResWeb was successfully removed from the system.
+Installing assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+   logtoconsole = 
+Installing service ResWeb...
+Service ResWeb has been successfully installed.
+Creating EventLog source ResWeb in log Application...
+Committing assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+Removing EventLog source ResWeb.
+Service ResWeb is being removed from the system...
+Service ResWeb was successfully removed from the system.
+Installing assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+   logtoconsole = 
+Installing service ResWeb...
+Service ResWeb has been successfully installed.
+Creating EventLog source ResWeb in log Application...
+Committing assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+Removing EventLog source ResWeb.
+Service ResWeb is being removed from the system...
+Service ResWeb was successfully removed from the system.
+Installing assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+   logtoconsole = 
+Installing service ResWeb...
+Service ResWeb has been successfully installed.
+Creating EventLog source ResWeb in log Application...
+Committing assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+Removing EventLog source ResWeb.
+Service ResWeb is being removed from the system...
+Service ResWeb was successfully removed from the system.
+Installing assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+   logtoconsole = 
+Installing service ResWeb...
+Service ResWeb has been successfully installed.
+Creating EventLog source ResWeb in log Application...
+Committing assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+Removing EventLog source ResWeb.
+Service ResWeb is being removed from the system...
+Service ResWeb was successfully removed from the system.
+Installing assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+   logtoconsole = 
+Installing service ResWeb...
+Service ResWeb has been successfully installed.
+Creating EventLog source ResWeb in log Application...
+Committing assembly 'C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.InstallLog
+   assemblypath = C:\Users\paster-win10\Documents\ResWeb-Client\build\Service\ResWeb_BackendService.exe
+   logtoconsole = 
